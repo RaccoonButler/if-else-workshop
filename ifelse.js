@@ -2,7 +2,7 @@ console.log("Hi! This is the If Else Exercise");
 //Testing the script
 let value = "null"; // Assign your value here
 //Declares the value variable
-if (value === "I am a string") {
+if (value == "I am a string") {
   console.log(true);
 } else {
   if (value === "false") {
