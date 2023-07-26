@@ -9,3 +9,4 @@ let num1 = 0;
     console.log(false);
   }
   //Checks whether bothnumbers are greater than or equal to 5
+  //This is a test change for troubleshooting git issues 
